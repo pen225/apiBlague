@@ -1,0 +1,14 @@
+.content{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.container{
+    box-sizing: border-box;
+    height: 500px;
+    overflow: hidden;
+    overflow-y: auto;
+    position: fixed;
+    top: 0px;
+}
